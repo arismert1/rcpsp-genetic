@@ -1,0 +1,11 @@
+
+S	0	0   0   0   0
+A	3	2   S   S   S
+B	2	4   S   S   S
+C	4	3   S   S   S
+D	1	3   A   B   S
+E	2	2   C   S   S
+F	5	2   A   D   S
+G	4	1   D   E   S
+H	6	2   E   S   S
+FINISH	0	0   F   G   H
