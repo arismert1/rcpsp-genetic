@@ -1,7 +1,7 @@
 # rcpsp-genetic
 
 This is one of my projects in University. It is basicly a simple solver for the RCPSP using a stohastic constructive and a simple evolutionary algorithm.
-I use as input the file "model.txt" and its format is:
+I use as input the file "model.txt" and its format is:<br/>
 1st column: Activity name <br/>
 2nd column: Activity's duration <br/>
 3rd column: Activity's demand <br/>
