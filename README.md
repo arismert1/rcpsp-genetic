@@ -7,6 +7,7 @@ I use as input the file "model.txt" and its format is:<br/>
 3rd column: Activity's demand <br/>
 4th-nth column: Activity's predecessors <br/>
 <br/>
-Note: If you change the input file you must change the #define parameters in the "rcpsp.h" file.
+Note: If you change the input file you must change the #define parameters in the "rcpsp.h" file.<br/>
+  You also need to change the srcdir inside makefile<br/>
 <br/>
 Feel free to copy and use it.
